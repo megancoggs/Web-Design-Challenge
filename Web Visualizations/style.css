@@ -1,0 +1,36 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: darkcyan;
+    background: white;
+  }
+  
+  h1 {
+    padding: 10px 0;
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+    color: darkcyan;
+    text-align: left;
+  }
+  
+  h2 {
+    padding: 10px 0;
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: darkcyan;
+    text-align: center
+  }
+
+  h3 {
+      padding: 10px 0;
+      margin: 0;
+      font-size: 16px;
+      color: black;
+      text-align: left
+  }
