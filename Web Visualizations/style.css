@@ -16,6 +16,16 @@ body {
     background: white;
   }
 
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+th {
+    text-align: center;
+}
+
+
 h1 {
 padding: 10px 0;
 margin: 0;
